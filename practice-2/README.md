@@ -1,0 +1,3 @@
+![](./1.gif)
+
+In the realm of digital creation, a daunting task lies ahead: to recreate the revered Figma logo using only the subtle magic of CSS. This challenge demands precision and ingenuity, for no extraneous elements are permitted. With each line of code, the sacred emblem begins to take shape, a testament to the programmer's skill and mastery of their craft. May their journey be guided by the wisdom of the ancients, and may they emerge triumphant, their code a beacon of creativity in the dark expanse of cyberspace.
